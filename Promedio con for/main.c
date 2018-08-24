@@ -5,6 +5,8 @@
 
 int main()
 {
+    printf("probando GIT");
+
     int num[ARRAY_LIMIT];
     int i;
     float total;
