@@ -6,6 +6,7 @@
 int main()
 {
     printf("probando GIT");
+    printf("probando GIT2");
 
     int num[ARRAY_LIMIT];
     int i;
